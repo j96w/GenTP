@@ -1,4 +1,4 @@
-# GenTP-dev
+# Generalizable Task Planning through Representation Pretraining
 
 <p align="center">
 	<img src ="gentp/assets/method.jpg" width="800" />
