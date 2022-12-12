@@ -19,7 +19,7 @@
 
 ## Overview
 
-This repository is the **pre-released** implementation code of the paper "Generalizable Task Planning through Representation Pretraining"([arXiv](https://arxiv.org/abs/2205.07993), [Project](https://sites.google.com/view/gentp), [Video](https://drive.google.com/file/d/1S3Th1eJHAH-kjG5EP_sc4ZCbwAOfylg2/view)) by Wang et al. at [Stanford Vision and Learning Lab](http://svl.stanford.edu/). In this repo, we provide the codes for training, evaluation and data generation. In the next step, we will further improve the code structure to better modularize to different tasks.
+This repository is the **pre-released** implementation code of the paper "Generalizable Task Planning through Representation Pretraining"([arXiv](https://arxiv.org/abs/2205.07993), [Project](https://sites.google.com/view/gentp), [Video](https://drive.google.com/file/d/1S3Th1eJHAH-kjG5EP_sc4ZCbwAOfylg2/view)) by Wang et al. at [Stanford Vision and Learning Lab](http://svl.stanford.edu/). In this repo, we provide the codes for training, evaluation and data generation. In the next step, we will further improve the code structure to better modularize to different scenes.
 
 ## Installation
 * python 3.6+
